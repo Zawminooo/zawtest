@@ -45,9 +45,6 @@ a {
 #nav ul ul{
 	display:none;
 }
-#nav ul li: hover ul{
-	display: block;
-}
 
 #main{
 	width :800px;
