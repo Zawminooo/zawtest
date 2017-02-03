@@ -32,8 +32,8 @@ a {
 #nav .selected{
 	font-weight : bold;
 }
-#nav .selected:hover{
-	color: black;
+#nav .selected:hover ul{
+	color:green ;
 }
 #nav .selected:hover li{
 	color: black;
