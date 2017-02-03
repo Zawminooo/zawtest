@@ -43,17 +43,16 @@ a {
 	padding: 2px;
 }
 #nav ul ul{
-	
+	display: none;
 	position: absolute;
 }
 #nav ul ul li{
-	display: none;
+
 }
 #main{
 	width :800px;
 	float: right;
 }
-
 #footer{
 	clear: both;
 	text-align: left;
