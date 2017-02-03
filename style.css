@@ -34,6 +34,8 @@ a {
 	list-style: none;
 	float:left;
 	height: 50px;
+	margin :0px;
+	padding: 0px;
 }
 #nav .selected{
 	font-weight : bold;
