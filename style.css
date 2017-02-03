@@ -38,17 +38,6 @@ a {
 #nav .selected:hover li{
 	color: black;
 }
-#nav ul{
-	
-	padding: 2px;
-}
-#nav ul ul{
-	display: none;
-	position: absolute;
-}
-#nav ul ul li{
-	display:none;
-}
 #main{
 	width :800px;
 	float: right;
