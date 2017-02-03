@@ -26,7 +26,6 @@ a {
 }
 
 #nav{
-	list-style: none;
 	width: 150px;
 	float: left;
 }
@@ -35,6 +34,7 @@ a {
 }
 #nav .selected:hover ul{
 	color:green ;
+	list-style: none;
 }
 #nav .selected:hover li{
 	color: black;
