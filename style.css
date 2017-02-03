@@ -47,7 +47,7 @@ a {
 	position: absolute;
 }
 #nav ul ul li{
-	display: block;
+	display: none;
 }
 #main{
 	width :800px;
