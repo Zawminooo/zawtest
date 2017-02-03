@@ -46,6 +46,9 @@ a {
 	display: none;
 	position: absolute;
 }
+#nav ul ul li{
+	display: block;
+}
 #main{
 	width :800px;
 	float: right;
