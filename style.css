@@ -33,7 +33,7 @@ a {
 	font-weight : bold;
 }
 #nav .selected:hover{
-	color: pink;
+	color: black;
 }
 #nav ul{
 	list-style-type: none;
