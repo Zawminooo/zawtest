@@ -39,7 +39,7 @@ a {
 	color: black;
 }
 #nav ul{
-	list-style-type: none;
+	
 	padding: 2px;
 }
 #nav ul ul{
@@ -47,7 +47,7 @@ a {
 	position: absolute;
 }
 #nav ul ul li{
-
+	display:none;
 }
 #main{
 	width :800px;
