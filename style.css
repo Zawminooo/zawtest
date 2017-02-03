@@ -32,6 +32,9 @@ a {
 #nav .selected{
 	font-weight : bold;
 }
+#nav .selected:hover{
+	color: pink;
+}
 #nav ul{
 	list-style-type: none;
 	padding: 2px;
@@ -42,10 +45,7 @@ a {
 #nav ul li: hover ul{
 	display: block;
 }
-#nav ul li a:hover{
-	color: white;
-}
- 
+
 #main{
 	width :800px;
 	float: right;
