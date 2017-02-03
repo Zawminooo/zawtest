@@ -36,6 +36,12 @@ a {
 	list-style-type: none;
 	padding: 2px;
 }
+#nav ul ul{
+	display:none;
+}
+#nav ul li: hover ul{
+	display: block;
+}
  
 #main{
 	width :800px;
