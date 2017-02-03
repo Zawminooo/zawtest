@@ -42,7 +42,10 @@ a {
 	list-style-type: none;
 	padding: 2px;
 }
-
+#nav ul ul{
+	display: none;
+	position: absolute;
+}
 #main{
 	width :800px;
 	float: right;
