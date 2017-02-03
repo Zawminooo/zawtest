@@ -35,6 +35,9 @@ a {
 #nav .selected:hover{
 	color: black;
 }
+#nav .selected:hover li{
+	color: black;
+}
 #nav ul{
 	list-style-type: none;
 	padding: 2px;
